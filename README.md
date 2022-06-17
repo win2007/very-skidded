@@ -1,0 +1,2 @@
+# winbmpdestructive
+Malware
